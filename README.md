@@ -1,5 +1,8 @@
 # Portable Python IDE
 
+## Tags
+#Python #PyQt5 #IDE #PythonIDE #WindowsApp #PyInstaller #CodeEditor #DevTools #OpenSource #GUI #PortableApp #pipManager #ScriptRunner #ExecutableBuilder
+
 ## Description
 
 **Portable Python IDE** is a lightweight and modern desktop Python development environment built with PyQt5. Designed for **Windows users with standard Python installations**, this app provides everything you need to write, run, and manage Python scripts in a user-friendly interface.
@@ -23,7 +26,7 @@ Whether you're a developer, student, or tinkerer, this IDE simplifies Python dev
   - pip updater included
 
 - 🚀 **Run Python Scripts**  
-  Execute `.pyw` scripts directly inside the app using your local Python installation.
+  Execute `.pyw` scripts directly inside the app using your system's Python interpreter.
 
 - 🧱 **Create Standalone Applications**  
   Use PyInstaller integration to package your script into a standalone `.exe` — no Python required on the target machine.
@@ -31,12 +34,10 @@ Whether you're a developer, student, or tinkerer, this IDE simplifies Python dev
 - 💾 **Auto Save**  
   Auto-saves your work every 5 minutes, either to your current script file or a time-stamped backup folder.
 
-## How It Works
+## 🔽 Download
 
-1. On first launch, the app detects your existing Python installation or prompts you to select `python.exe`.
-2. Scripts can be written, saved, and executed using your system's Python interpreter.
-3. Missing packages? The IDE will prompt to install them.
-4. Convert your script to a standalone `.exe` with just a few clicks.
+👉 **Windows Build (.zip)**:  
+[Download PortablePythonIDE.zip](https://github.com/calimangto119/PythonIDEWindowsEdition/releases/download/v1.0.0/PythonIDEWindows.zip)
 
 ## Requirements
 
